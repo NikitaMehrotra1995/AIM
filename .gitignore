@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+runs/
+results/
+*.pt
+*.pth
+!checkpoints/
+!checkpoints/sample_262p.pt
+.DS_Store
